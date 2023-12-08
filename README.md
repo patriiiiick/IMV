@@ -35,3 +35,7 @@ Methodik:
 Den grössten Teil der Webseite habe ich selbst erstellt. Für die Partikel im Background habe ich die Library "particles.js" eingebunden, welche ich auf YouTube gefunden habe. Auch den JS Code für die Bilder & die Tabellen habe ich zum grössten Teil selbst erstellt. Mit ChatGPT wollte ich anfangs eine Lösung finden, jedoch funktionierte diese nicht. Schlussendlich konnte ich mit meinem Wissen aus meiner Ausbildung in JS eine zufriedenstellende Lösung programmieren.
 
 Quellen: ChatGPT, w3schools, copepen, css-tricks, etc.
+
+Learnings:
+
+Ingesamt bin ich mit meiner Webseite zufrieden. Mit HTML & CSS kam ich relativ gut zurecht. Beim Coden mit JavaScript war ich ab und zu nahe an der Verzweiflung. Mit ChatGPT konnte ich keine brauchbare Lösung erstellen. Die Outputs waren für mich nicht zufriedenstellend. Somit musste ich mit meinen JS Kenntnissen eine eigene Lösung zusammenkratzen.  
