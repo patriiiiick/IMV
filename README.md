@@ -30,6 +30,8 @@ Code:
 
 Mein Code besteht aus HTML, CSS & Javascript. Jede Seite ist mit HTML & CSS aufgebaut. Die Partikel werden jeweils mit JavaScript erstellt. Das Klicken der Bilder & das Anzeigen der Tabellen auf der "Hall of Fame" Seite funktionieren mit JavaScript.  
 
-Benutze Quellen:
+Methodik:
 
 Den grössten Teil der Webseite habe ich selbst erstellt. Für die Partikel im Background habe ich die Library "particles.js" eingebunden, welche ich auf YouTube gefunden habe. Auch den JS Code für die Bilder & die Tabellen habe ich zum grössten Teil selbst erstellt. Mit ChatGPT wollte ich anfangs eine Lösung finden, jedoch funktionierte diese nicht. Schlussendlich konnte ich mit meinem Wissen aus meiner Ausbildung in JS eine zufriedenstellende Lösung programmieren.
+
+Quellen: ChatGPT, w3schools, copepen, css-tricks, etc.
